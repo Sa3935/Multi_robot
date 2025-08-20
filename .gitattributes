@@ -1,0 +1,5 @@
+AirSimInspection/Blocks/** filter=lfs diff=lfs merge=lfs -text
+PromptCraft-Robotics/Blocks/** filter=lfs diff=lfs merge=lfs -text
+PromptCraft-Robotics-main/Blocks/** filter=lfs diff=lfs merge=lfs -text
+**/Blocks.exe filter=lfs diff=lfs merge=lfs -text
+**/Blocks-Windows.ucas filter=lfs diff=lfs merge=lfs -text
