@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>A5BF653B440405BD46C8D7A33A69E558</ExecutionGuid>
+<CrashGUID>UECC-Windows-90D120C8493FB5C87C66F08B869920C6_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: Mesh-&gt;SkeletalMesh [File:D:\build\++UE5\Sync\Engine\Plugins\Experimental\ChaosVehiclesPlugin\Source\ChaosVehicles\Private\ChaosVehicleMovementComponent.cpp] [Line: 1328]
+Expected skeletal mesh when locating bone offset. Asset might be missing references.
+Stack: 
+0x00007ff6fa2b32f5 Blocks.exe!UnknownFunction []
+0x00007ff6fa2b187f Blocks.exe!UnknownFunction []
+0x00007ff6fa2a0126 Blocks.exe!UnknownFunction []
+0x00007ff6fa2c22e4 Blocks.exe!UnknownFunction []
+0x00007ff6fa2a3d5d Blocks.exe!UnknownFunction []
+0x00007ff6fa2b3b43 Blocks.exe!UnknownFunction []
+0x00007ff70044b040 Blocks.exe!UnknownFunction []
+0x00007ff70047345e Blocks.exe!UnknownFunction []
+0x00007ff70010d168 Blocks.exe!UnknownFunction []
+0x00007ff70011714a Blocks.exe!UnknownFunction []
+0x00007ff700114d3c Blocks.exe!UnknownFunction []
+0x00007ff7008bded4 Blocks.exe!UnknownFunction []
+0x00007ff7008be3ae Blocks.exe!UnknownFunction []
+0x00007ff6fa221ed3 Blocks.exe!UnknownFunction []
+0x00007ff6fa26fb5d Blocks.exe!UnknownFunction []
+0x00007ff6fa1e9232 Blocks.exe!UnknownFunction []
+0x00007ff6fa1e93ce Blocks.exe!UnknownFunction []
+0x00007ff7000fb5de Blocks.exe!UnknownFunction []
+0x00007ff700112bcb Blocks.exe!UnknownFunction []
+0x00007ff70010281d Blocks.exe!UnknownFunction []
+0x00007ff700114d74 Blocks.exe!UnknownFunction []
+0x00007ff7008bded4 Blocks.exe!UnknownFunction []
+0x00007ff7008be3ae Blocks.exe!UnknownFunction []
+0x00007ff6fa220b47 Blocks.exe!UnknownFunction []
+0x00007ff6fa1e8c2f Blocks.exe!UnknownFunction []
+0x00007ff7000fb5de Blocks.exe!UnknownFunction []
+0x00007ff7012cae6f Blocks.exe!UnknownFunction []
+0x00007ff70075a8e1 Blocks.exe!UnknownFunction []
+0x00007ff70126f7de Blocks.exe!UnknownFunction []
+0x00007ff70115a083 Blocks.exe!UnknownFunction []
+0x00007ff7011040ac Blocks.exe!UnknownFunction []
+0x00007ff70071ed8f Blocks.exe!UnknownFunction []
+0x00007ff6fa1612b8 Blocks.exe!UnknownFunction []
+0x00007ff6fa17d8ee Blocks.exe!UnknownFunction []
+0x00007ff6fa17daca Blocks.exe!UnknownFunction []
+0x00007ff6fa180b4c Blocks.exe!UnknownFunction []
+0x00007ff6fa192304 Blocks.exe!UnknownFunction []
+0x00007ff70239e8aa Blocks.exe!UnknownFunction []
+0x00007ffc4022257d KERNEL32.DLL!UnknownFunction []
+0x00007ffc4170aa58 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>17900</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE5-Blocks</GameName>
+<ExecutableName>Blocks</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.0.3-20979098+++UE5+Release-5.0</EngineVersion>
+<CommandLine> Blocks</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-IN</AppDefaultLocale>
+<BuildVersion>++UE5+Release-5.0-CL-20979098</BuildVersion>
+<Symbols>**UE5*Release-5.0-CL-20979098-Win64-Development</Symbols>
+<IsUERelease>false</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>C:/Users/shanmukh/pcr/PromptCraft-Robotics/chatgpt_airsim/AirSimInspection/Blocks/Binaries/Win64/</BaseDir>
+<RootDir>C:/Users/shanmukh/pcr/PromptCraft-Robotics/chatgpt_airsim/AirSimInspection/</RootDir>
+<MachineId>5B3317304A06A1E8813E5991C29997DF</MachineId>
+<LoginId>5b3317304a06a1e8813e5991c29997df</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) Iris(R) Xe Graphics</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 11 (23H2) [10.0.22631.3296]</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>8303452160</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>19040870400</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>1099104256</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>7594762240</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>476274688</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>577232896</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>696508416</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>709029888</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>6</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+Blocks    0x00007ff6f9570000 + d432f5          
+Blocks    0x00007ff6f9570000 + d4187f          
+Blocks    0x00007ff6f9570000 + d30126          
+Blocks    0x00007ff6f9570000 + d522e4          
+Blocks    0x00007ff6f9570000 + d33d5d          
+Blocks    0x00007ff6f9570000 + d43b43          
+Blocks    0x00007ff6f9570000 + 6edb040         
+Blocks    0x00007ff6f9570000 + 6f0345e         
+Blocks    0x00007ff6f9570000 + 6b9d168         
+Blocks    0x00007ff6f9570000 + 6ba714a         
+Blocks    0x00007ff6f9570000 + 6ba4d3c         
+Blocks    0x00007ff6f9570000 + 734ded4         
+Blocks    0x00007ff6f9570000 + 734e3ae         
+Blocks    0x00007ff6f9570000 + cb1ed3          
+Blocks    0x00007ff6f9570000 + cffb5d          
+Blocks    0x00007ff6f9570000 + c79232          
+Blocks    0x00007ff6f9570000 + c793ce          
+Blocks    0x00007ff6f9570000 + 6b8b5de         
+Blocks    0x00007ff6f9570000 + 6ba2bcb         
+Blocks    0x00007ff6f9570000 + 6b9281d         
+Blocks    0x00007ff6f9570000 + 6ba4d74         
+Blocks    0x00007ff6f9570000 + 734ded4         
+Blocks    0x00007ff6f9570000 + 734e3ae         
+Blocks    0x00007ff6f9570000 + cb0b47          
+Blocks    0x00007ff6f9570000 + c78c2f          
+Blocks    0x00007ff6f9570000 + 6b8b5de         
+Blocks    0x00007ff6f9570000 + 7d5ae6f         
+Blocks    0x00007ff6f9570000 + 71ea8e1         
+Blocks    0x00007ff6f9570000 + 7cff7de         
+Blocks    0x00007ff6f9570000 + 7bea083         
+Blocks    0x00007ff6f9570000 + 7b940ac         
+Blocks    0x00007ff6f9570000 + 71aed8f         
+Blocks    0x00007ff6f9570000 + bf12b8          
+Blocks    0x00007ff6f9570000 + c0d8ee          
+Blocks    0x00007ff6f9570000 + c0daca          
+Blocks    0x00007ff6f9570000 + c10b4c          
+Blocks    0x00007ff6f9570000 + c22304          
+Blocks    0x00007ff6f9570000 + 8e2e8aa         
+KERNEL32  0x00007ffc40210000 + 1257d           
+ntdll     0x00007ffc416b0000 + 5aa58           
+</PCallStack>
+<PCallStackHash>475817C05344356308745C8CB4679C9555C89873</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus_Windows>No errors</MatchingDPStatus_Windows>
+<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+<RHI.D3DDebug>false</RHI.D3DDebug>
+<RHI.Aftermath>false</RHI.Aftermath>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce MX330</RHI.AdapterName>
+<RHI.UserDriverVersion>Unknown</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>Unknown</RHI.InternalDriverVersion>
+<RHI.DriverDate>Unknown</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+<DeviceProfile.Name>Windows</DeviceProfile.Name>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
